@@ -5,8 +5,8 @@
 ```
 1. 학번이름 폴더 생성
 2. 폴더에 자신이 푼 문제를
-   LEVEL_1.java 
-   LEVEL_2.java
+   level_1.java 
+   level_2.java
    ...
    형식으로 올리시면 됩니다
 3. 주석도 함께 달아주면 아주 좋아요 d^~^b 
