@@ -1,7 +1,7 @@
-# Python_Algorithm_Basic
-파이썬 기본 알고리즘 코드 업로드 레포
-# 제출방법
+# Java_Algorithm_Basic
+자바 기본 알고리즘 코드 업로드 레포
 
+# 제출방법
 ```
 이름_날짜.py 코드로 해당하는 날짜 폴더에 파일 제출
 ex. 김태한_03_03.py
